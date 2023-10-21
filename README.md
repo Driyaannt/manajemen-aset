@@ -5,6 +5,7 @@
 1. Memperbaiki tempilan halaman Awal
 
 - Sebelum
+
 ![Sebelum](readme-img/awal-belum.png)
 
 - Sesudah
