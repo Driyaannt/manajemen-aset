@@ -1,16 +1,30 @@
 # manajemen_aset
 
-A new Flutter project.
+## Fix Layout
 
-## Getting Started
+1. Memperbaiki tempilan halaman Awal
+- Sebelum
+![Sebelum](readme-img/awal-belum.png)
+- Sesudah
+![Sesudah](readme-img/awal-sudah.png)
 
-This project is a starting point for a Flutter application.
+2. Memperbaiki prefix Icon Login pada text field password
+- Sebelum
+![Sebelum](readme-img/preflog-belum.png)
+- Sesudah
+![Sesudah](readme-img/preflog-sudah.png)
 
-A few resources to get you started if this is your first Flutter project:
+3. Memperbaiki prefix Icon Create Account pada text field password
+- Sebelum
+![Sebelum](readme-img/prefac-belum.png)
+- Sesudah
+![Sesudah](readme-img/prefac-sudah.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+4. Menambah Widget Scafflod pada menu Halaman Sedang Diproses 
+- Sebelum
+![Sebelum](readme-img/scfld-belum.png)
+- Sesudah
+![Sesudah](readme-img/scfld-sudah.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
